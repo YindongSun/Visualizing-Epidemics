@@ -17,7 +17,7 @@ With respective to different properties, we should choose different models to te
 * [NDlib](https://ndlib.readthedocs.io/en/latest/index.html) - Network Diffusion Library
 
 ## Additional information
-Please see the * [recorded video]() for more detailed explaination and demo.
+Please see the [recorded video]() for more detailed explaination and demo.
 
 
 ## Authors
