@@ -14,8 +14,8 @@ model = ep.SIRModel(g)
 # Model Configuration
 cfg = mc.Configuration()
 cfg.add_model_parameter('beta', 0.01)
-cfg.add_model_parameter('gamma', 0.005)
-cfg.add_model_parameter("fraction_infected", 0.05)
+cfg.add_model_parameter('fraction_infected', 0.005)
+cfg.add_model_parameter("topology parameter", 0.05)
 model.set_initial_status(cfg)
 
 # Simulation execution
